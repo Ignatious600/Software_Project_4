@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:"Roboto";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left,
+    rgb(77, 25, 100) 0%,
+    rgb(7, 28, 214) 100%
+  );
+}
+
+code {
+  font-family: "Roboto";
+}
